@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "147518364258",
+    "project_id": "resto-reco-app",
+    "storage_bucket": "resto-reco-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147518364258:android:3b413e690240d00e1e8f3b",
+        "android_client_info": {
+          "package_name": "com.example.restorecommendapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147518364258-7p6e297oa431eong2bhs66mq5j6c78k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restorecommendapps",
+            "certificate_hash": "7a9ca36848ced78a22a6d34a36161914c2620e16"
+          }
+        },
+        {
+          "client_id": "147518364258-1mratq7ermqlng8ppbnbal2jq4bkadto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsShXJLER6h5dn0ZnCpRfgS9nW0pVFNis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147518364258-1mratq7ermqlng8ppbnbal2jq4bkadto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147518364258-k2im29b9loib48l2vtc5g2lqe887hkct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restorecommendapps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
