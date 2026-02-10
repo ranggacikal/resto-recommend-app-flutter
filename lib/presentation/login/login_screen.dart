@@ -81,7 +81,13 @@ class _LoginScreenState extends State<LoginScreen> {
       }
     } catch (_) {
       DialogHelper.hide(context);
-      DialogHelper.showError(context, message: 'Terjadi Kesalahan');
+      DialogHelper.showError(
+        context, 
+        message: 'Terjadi Kesalahan',
+        onOk: () {
+          _login(context);
+        }
+        );
     }
   }
 
